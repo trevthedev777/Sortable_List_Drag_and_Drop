@@ -23,3 +23,4 @@ This application serves as a demonstartion to JavaScript verification methods an
 ### Resources
 
 -   Forbes Top 10 Richest People (https://www.forbes.com/real-time-billionaires/#512bc6853d78)
+-   20 Vanilla JS Projects with Brad Traversy on Udemy(https://www.udemy.com/course/web-projects-with-vanilla-javascript/learn/lecture/17842994#overview)
