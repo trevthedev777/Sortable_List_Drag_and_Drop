@@ -28,7 +28,9 @@ This application was created using these steps:
 -   Link Stylesheet, Script file and Font Awesome kit link
 -   Created global variables in js
 -   Iterate through the list and inserted into the DOM using the `[...spread operator]` and `.forEach()` method
--   Using high order array methods to scrambke the list so when the application loads the list is in an incorrect order
+-   Using high order array methods to scramble the list so when the application loads the list is in an incorrect order
+-   Chain `.map()` method to sort the list and declare a object and declare the variable as `a`, this represents the `person` value in this method and then declare `.sort()` method to generate a value that we will use to scramble our list on load, this value changes on every page reload so the list will never scramble in the same order
+-   Chain an additional `.map()` method to iterate and insert the name of the `person` into our DOM
 
 ### Resources
 
