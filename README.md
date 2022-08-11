@@ -20,6 +20,16 @@ This application serves as a demonstartion to JavaScript verification methods an
 -   Font Awesome for Icons
 -   HTML, CSS and JavaScript
 
+## How this application was created
+
+This application was created using these steps:
+
+-   Create THE HTML Boilerplate
+-   Link Stylesheet, Script file and Font Awesome kit link
+-   Created global variables in js
+-   Iterate through the list and inserted into the DOM using the `[...spread operator]` and `.forEach()` method
+-   Using high order array methods to scrambke the list so when the application loads the list is in an incorrect order
+
 ### Resources
 
 -   Forbes Top 10 Richest People (https://www.forbes.com/real-time-billionaires/#512bc6853d78)
