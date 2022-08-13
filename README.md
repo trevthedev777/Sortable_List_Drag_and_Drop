@@ -33,6 +33,8 @@ This application was created using these steps:
 -   Chain `.map()` method to sort the list and declare a object and declare the variable as `a`, this represents the `person` value in this method and then declare `.sort()` method to generate a value that we will use to scramble our list on load, this value changes on every page reload so the list will never scramble in the same order
 -   Chain an additional `.map()` method to iterate and insert the name of the `person` into our DOM
 -   Core CSS style were implemented
+-   Drag and Drop functionality was created
+-   Created `AddEventListeners` function for each drag movement and `console.log()` each out put to test it
 
 ### Resources
 
